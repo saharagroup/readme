@@ -1,6 +1,7 @@
 <p align="center">
-    <img src="" alt="Sahara Logo" width="250px"/>
+    <img src="https://i.imgur.com/feIwY09.png" alt="Sahara Logo" width="200px"/>
 </p>
+
 
 # Project name
 
